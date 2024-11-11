@@ -1,7 +1,4 @@
-# AVLTreeRangeQuery
-Here’s an example of a beginner-friendly `README.md` for your C++ AVL Tree Range Query project. You can customize it based on your specific implementation and details.
 
----
 
 # AVL Tree Range Query Project
 
