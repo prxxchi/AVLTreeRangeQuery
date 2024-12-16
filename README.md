@@ -34,7 +34,7 @@ To run this project, you need:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/avl-tree-range-query.git
+   git clone https://github.com/prxxchi/AVLTreeRangeQuery.git
    ```
 
 2. Navigate to the project directory:
